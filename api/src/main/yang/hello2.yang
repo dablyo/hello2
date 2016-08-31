@@ -1,9 +1,0 @@
-module hello2 {
-    yang-version 1;
-    namespace "urn:opendaylight:params:xml:ns:yang:hello2";
-    prefix "hello2";
-
-    revision "2015-01-05" {
-        description "Initial revision of hello2 model";
-    }
-}
